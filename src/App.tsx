@@ -1,10 +1,8 @@
-import Button from './components/Button'
+import { AppRoutes } from './AppRoutes';
 
 function App() {
   return (
-    <div>
-      <Button />
-    </div>
+    <AppRoutes />
   );
 }
 
